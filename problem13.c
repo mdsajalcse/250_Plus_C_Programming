@@ -15,10 +15,6 @@ int main(){
     scanf("%d",&age);
     printf("Your Name and Age is::%s %s %d\n",firstName , lastName, age);
 
-
-
-
-
 return 0;
 
 }
