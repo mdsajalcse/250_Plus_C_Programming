@@ -9,8 +9,5 @@ int main(){
     si=(p*t*r)/100;
     printf("The Simple Interest ::%lf",si);
 
-
-
-
 return 0;
 }

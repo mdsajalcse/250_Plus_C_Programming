@@ -7,7 +7,5 @@ int main(){
     printf("08/06/1995\n");
     printf("01675497324");
 
-
-
 return 0;
 }
