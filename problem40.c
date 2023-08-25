@@ -20,7 +20,7 @@ int main(){
       if(temp<0) //Temp < 0 then Freezing weather
         {
         printf("It is Frezzing weather...");
-        break;
+
         }
       else if(temp<10) //Temp 0-9 then very cold weather
       {
