@@ -4,9 +4,7 @@ int main(){
     int num1,num2;
     printf("Enter Two Numbers...");
     scanf("%d %d",&num1,&num2);
-
     switch(num1>num2){
-
  case 0:
     printf("%d is maximum",num2);
     break;
