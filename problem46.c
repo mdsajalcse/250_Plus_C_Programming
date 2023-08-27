@@ -5,18 +5,8 @@ int main(){
 
      char alphabet;
 
-
-
      printf("Enter Any Alphabet To Check Vowel Or Consonant=");
      scanf("%c",&alphabet);
-
-  switch(alphabet<=0 || alphabet>=9){
-   case 0:
-
-     printf("Wrong input\n");
-     break;
-
-
 
      switch(alphabet){
      case 'a':
@@ -59,7 +49,7 @@ int main(){
 
 
      }
-     }
+
 
 return 0;
 }
