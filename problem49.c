@@ -18,7 +18,7 @@ int main(){
      printf("%d is Negative\n",number);
      break;
  case 0:
-     printf("%d is Zero\n");
+     printf("%d is Zero\n",number);
      break;
 
     }
