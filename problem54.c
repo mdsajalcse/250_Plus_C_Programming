@@ -12,7 +12,7 @@ int main(){
      printf("While Loop :::\n");
 
 
-     int j;
+     int j=1;
 
      while(j<=20){
 
@@ -23,7 +23,7 @@ int main(){
 
      printf("Do While Loop :::\n");
 
-      int k;
+      int k=1;
       do{
         printf("%2d. Sajal\n",k);
         k++;
