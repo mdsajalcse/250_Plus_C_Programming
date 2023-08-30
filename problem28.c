@@ -30,7 +30,5 @@ int main(){
    else{
      printf("%c is Consonant",ch);
    }
-
-
 return 0;
 }

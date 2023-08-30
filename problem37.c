@@ -4,8 +4,6 @@ Your mother assigns you to teach him to know about which alphabets are vowel and
 So you are going to make a program (using else if ladder) where your brother writes any alphabet
 and your program will tell him that it is a vowel or consonant.
 */
-
-
 #include<stdio.h>
 int main(){
 
